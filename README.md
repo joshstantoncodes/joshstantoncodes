@@ -17,6 +17,21 @@ Outside of the software world, I am an avid cook, multi-instrumentalist, and cat
 
 ## Projects and Reports :bulb:
 
+#### April 2024
+
+🔴 [The Evergrowing Murkiness of the Digital Veil and Truth: Cybersecurity in the World of Artificially Generated Content](https://www.dropbox.com/scl/fi/cbdh9r2ir8mjh7u7yut2g/Deepfakes_in_Cybersecurity__Stanton.pdf?rlkey=8cj468b8w4d1aukg1q2ndmrrr&st=lfkk2kvs&dl=0)
+
+#### December 2024
+
+🟠 [Visualizing with Virtual Eyes: Exploring the Challenges of Accessibility in Technology for the Visually Impaired](https://www.dropbox.com/scl/fi/797hk35l13icxol4zxok0/Accessibility_in_Technology_for_the_Visual_Impaired__Stanton.pdf?rlkey=ga8g33u1fz33je1gjtr6qo0hi&st=dvepvmlx&dl=0)
+
+🟢 [Exploring Lung Cancer Diagnostics: Development of a Deep Neural Network
+Binary Classifier Using miRNA Expression](https://www.dropbox.com/scl/fi/mc9bqb8bxiooppqzhhv4c/AI_Lung_Cancer_miRNA_Binary_Classifier_Report___Stanton.pdf?rlkey=6ire2yun5fci43x2tp1wdlagd&st=g4i0hpt1&dl=0)
+
+#### April 2025
+
+🟡 [Detecting Deception - An Analysis of Fraudulence and Scam Websites using Convolutional Neural Networks](https://www.dropbox.com/scl/fi/livaywaqhhp743wimzy3s/Fraud_and_Scam_Websites_CNN_Report___Stanton.pdf?rlkey=nharilg479zraa4hy9gk8vwtd&st=im90nbbq&dl=0)
+
 ## Degrees Held :school:
 
 :dolphin::shark: BSc Marine Biology, 2017
