@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Josh Stanton! :black_cat:</h1>
+<h1 align="center"> :bearded_person: Hey there, I'm Josh Stanton! :black_cat:</h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-stanton-471618141/)](https://www.linkedin.com/in/joshua-stanton-471618141/)
 [![Instagram Badge](https://img.shields.io/badge/-newjoshstanton-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/newjoshstanton/)](https://www.instagram.com/newjoshstanton/)
@@ -15,8 +15,7 @@ Outside of the software world, I am an avid cook, multi-instrumentalist, and cat
 ![A close-up photo of Cinder sitting in the window sill at golden hour. He is a black and white tuxedo cat with big green eyes and a little white moustache. In this photo, the shades of brown in his fur are brought out by the sunlight.](https://github.com/user-attachments/assets/6bd32139-1e5a-4d00-a868-1362d34e4249) ![A close-up photo of Cinder laying on the floor with his paws forward and his head resting on them. He is a black and white tuxedo cat with big green eyes and a little white moustache.](https://github.com/user-attachments/assets/897a539b-54ad-4262-9864-ef63d5946100)
 
 
-
-<!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
+## Projects and Reports :bulb:
 
 ## Degrees Held :school:
 
