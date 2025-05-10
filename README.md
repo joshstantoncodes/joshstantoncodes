@@ -32,7 +32,9 @@ Binary Classifier Using miRNA Expression](https://www.dropbox.com/scl/fi/mc9bqb8
 
 🟡 [Detecting Deception - An Analysis of Fraudulence and Scam Websites using Convolutional Neural Networks](https://www.dropbox.com/scl/fi/livaywaqhhp743wimzy3s/Fraud_and_Scam_Websites_CNN_Report___Stanton.pdf?rlkey=nharilg479zraa4hy9gk8vwtd&st=im90nbbq&dl=0)
 
-## Degrees Held :school:
+## Degrees Held :scroll::scroll::scroll:
+
+#### :school: University of New Brunswick
 
 :dolphin::shark: BSc Marine Biology, 2017
 
