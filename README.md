@@ -8,11 +8,11 @@
 
 ## About Me :octocat:
 
-Hey there! :smiley_cat: My name is Josh and I am a 30-year-old software engineer from Atlantic Canada :canada:. I consider myself a bit of a jack-of-all-trades as a veteran of the Canadian Armed Forces and a holder of three distinctly unique degrees. I have developed a fascination with the potential applications of machine learning models to healthcare and cancer research, but as a relatively new entrant to the field of computer science I am exploring all facets that I can. Most frequently I find myself working with Python and am in the process of learning backend development with the Django Framework.
+Hey there! :smiley_cat: My name is Josh and I am a 30-year-old software engineer from Atlantic Canada :canada:. I consider myself a bit of a jack-of-all-trades as a veteran of the Canadian Armed Forces and a holder of three distinctly unique degrees. I have developed a fascination with the potential applications of machine learning models to healthcare and cancer research. However, as a relatively new entrant to the field of computer science, I am exploring all facets that I can. Most frequently, I find myself working with Python and am in the process of learning backend development with the Django Framework. Accessibility is something that I greatly value and believe that technology should be approachable and usable by everyone. 
 
 Outside of the software world, I am an avid cook, multi-instrumentalist, and catdad to a part-time chaos gremlin, full-time tuxedo cat named Cinder who I lovingly named after Dark Souls.
 
-![image](https://github.com/user-attachments/assets/6bd32139-1e5a-4d00-a868-1362d34e4249) ![image](https://github.com/user-attachments/assets/897a539b-54ad-4262-9864-ef63d5946100)
+![A close-up photo of Cinder sitting in the window sill at golden hour. He is a black and white tuxedo cat with big green eyes and a little white moustache. In this photo, the shades of brown in his fur are brought out by the sunlight.](https://github.com/user-attachments/assets/6bd32139-1e5a-4d00-a868-1362d34e4249) ![A close-up photo of Cinder laying on the floor with his paws forward and his head resting on them. He is a black and white tuxedo cat with big green eyes and a little white moustache.](https://github.com/user-attachments/assets/897a539b-54ad-4262-9864-ef63d5946100)
 
 
 
