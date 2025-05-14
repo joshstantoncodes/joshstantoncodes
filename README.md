@@ -19,7 +19,7 @@ Outside of the software world, I am an avid cook, multi-instrumentalist, and cat
 
 #### April 2024
 
-⚪ [Comparative Computational Performance Across Architectures](https://github.com/joshstantoncodes/Comparative-Computational-Performance-Across-Architectures)
+⚪ [Comparative Computational Performance Across Processors/Architectures](https://www.dropbox.com/scl/fi/6tpwaonva2vjroookgecq/Comparative-Computational-Capabilities_Stanton.pdf?rlkey=zgzk0uuapgi55mnmmx8v4cpkc&st=ffxjipeg&dl=0)
 
 🔴 [The Evergrowing Murkiness of the Digital Veil and Truth: Cybersecurity in the World of Artificially Generated Content](https://www.dropbox.com/scl/fi/cbdh9r2ir8mjh7u7yut2g/Deepfakes_in_Cybersecurity__Stanton.pdf?rlkey=8cj468b8w4d1aukg1q2ndmrrr&st=lfkk2kvs&dl=0)
 
