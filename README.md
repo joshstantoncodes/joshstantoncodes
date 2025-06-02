@@ -8,7 +8,7 @@
 
 ## About Me :octocat:
 
-Hey there! :smiley_cat: My name is Josh and I am a 30-year-old software engineer from Atlantic Canada :canada:. I consider myself a bit of a jack-of-all-trades as a veteran of the Canadian Armed Forces and a holder of three distinctly unique degrees. I have developed a fascination with the potential applications of machine learning models to healthcare and cancer research. However, as a relatively new entrant to the field of computer science, I am exploring all facets that I can. Most frequently, I find myself working with Python and am in the process of learning backend development with the Django Framework. Accessibility is something that I greatly value and believe that technology should be approachable and usable by everyone. 
+Hey there! :smiley_cat: My name is Josh and I am a 30-year-old software engineer from Atlantic Canada 🇨🇦. I consider myself a bit of a jack-of-all-trades as a veteran of the Canadian Armed Forces and a holder of three distinctly unique degrees. I have developed a fascination with the potential applications of machine learning models to healthcare and cancer research. However, as a relatively new entrant to the field of computer science, I am exploring all facets that I can. Most frequently, I find myself working with Python and am in the process of learning backend development with the Django Framework. Accessibility is something that I greatly value and believe that technology should be approachable and usable by everyone. 
 
 Outside of the software world, I am an avid cook, multi-instrumentalist, and catdad to a part-time chaos gremlin, full-time tuxedo cat named Cinder who I lovingly named after Dark Souls.
 
