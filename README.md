@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-stanton-471618141/)](https://www.linkedin.com/in/joshua-stanton-471618141/)
 [![Instagram Badge](https://img.shields.io/badge/-newjoshstanton-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/newjoshstanton/)](https://www.instagram.com/newjoshstanton/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:josh.stanton@live.ca)](mailto:josh.stanton@live.ca)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:joshstantoncodes@gmail.com)](mailto:joshstantoncodes@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=for-the-badge)
 
 
